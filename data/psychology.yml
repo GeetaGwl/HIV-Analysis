@@ -1,0 +1,23 @@
+categories:
+- psychology
+conversations:
+- - Hi
+  - Hello How are You
+- - i am not feeling well
+  - are you having any health issue?
+- - yeah
+  - okay,tell me about your symptoms
+- - i have fever 
+  - what type of fever you have? and please mention your symptoms.
+- - high body temperature and headache
+  - okay,wheezing,coughing and troubled breathing,chest pain->pred_diseases; asthma; analgesics;metered dose inhalers,nebulizers; treatment scans;"asthma therapy",diet fruits and vegetables->this may become a major problem,enter your pincode to see avaiable doctors near by you__
+- - 476001
+  - 476001--> name-dr.balaji,contact number-7865868576,location-opposite alpha hotel,specialist-gastroenterologist
+- - hey
+  - hey,welcome! how are you feeling today?
+- - not that great
+  - can you tell me what has you feeling down?
+- - i am stressed and anxious
+  - anxiety can feel very overwhelming. is your anxiety caused by an upcoming event,one of your relationships,or overthinking?
+- - overthinking
+  - that's very tough.but,you are not alone.here are a couple of blogs that discuss anxiety caused by overthing and how to deal with those anxious feelings.if those are not helpful.here's a list of ten things you can try that might put a stop to those never-ending thoughts.
